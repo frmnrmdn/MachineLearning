@@ -67,7 +67,7 @@ dan siap digunakan untuk proses <b>inference otomatis</b>.
   </li>
 </ol>
 <hr>
-<h3>📈 Hasil Akhir</h3>
+<h3>Hasil Akhir</h3>
 
 <p>
 Model <b>Random Forest</b> memberikan performa terbaik dengan nilai 
